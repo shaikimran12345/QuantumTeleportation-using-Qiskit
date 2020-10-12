@@ -22,7 +22,7 @@ When the Circuit is executed using the QASM simulator we can see that the 3rd Qu
 Quantum Teleporation has been achieved.
 
 ## A Mathematical representaion of Quantum teleportation
-![5](/images/5.png)
+![5](/images/5.jpeg)
 
 Have Funn
 
